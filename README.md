@@ -3,7 +3,7 @@
 ## Authors
 
 - Nattapon Jaroenchai <sup>a, b</sup>
-- Shaowen Wang <sup>a, b, *</sup>
+- Shaowen Wang <sup>a, b</sup>
 - Zhaonan Wang <sup>a, b</sup>
 - Lawrence V. Stanislawski <sup>c</sup>
 - Ethan Shavers <sup>c</sup>
@@ -48,8 +48,8 @@ As this work is ongoing and currently under development, citation details for th
 
 ## Contact Information
 
-For any inquiries or questions about the project, please contact the corresponding author:
+For any inquiries or questions about the project, please contact:
 
-- Shaowen Wang: *(Include email address or contact details here)*
+- Nattapon Jaroenchai (nj7(at)illinois(dot)edu)
 
 We appreciate your interest in our research, and we look forward to sharing the completed code and results with the community soon!
