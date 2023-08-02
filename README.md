@@ -8,10 +8,9 @@
 - Lawrence V. Stanislawski <sup>c</sup>
 - Ethan Shavers <sup>c</sup>
 
-<sup>a</sup> Department of Geography and Geographic Information Science, University of Illinois at Urbana-Champaign, Urbana, IL, USA
-<sup>b</sup> CyberGIS Center for Advanced Digital and Spatial Studies, University of Illinois at Urbana-Champaign, Urbana, IL, USA
-<sup>c</sup> U.S. Geology Survey, Center of Excellence for Geospatial Information Science, Rolla, MO, USA
-<sup>d</sup> School of Geoscience and Info-Physics, Central South University, Changsha, Hunan, China
+<sup>a</sup> Department of Geography and Geographic Information Science, University of Illinois at Urbana-Champaign, Urbana, IL, USA  
+<sup>b</sup> CyberGIS Center for Advanced Digital and Spatial Studies, University of Illinois at Urbana-Champaign, Urbana, IL, USA  
+<sup>c</sup> U.S. Geology Survey, Center of Excellence for Geospatial Information Science, Rolla, MO, USA  
 
 ## Introduction
 
