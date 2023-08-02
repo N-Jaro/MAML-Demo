@@ -32,12 +32,6 @@ The repository's folder structure is as follows:
 
 - `MAML-w-mem/`: This directory contains the MAML implementation with the Spatial-Temporal Memory (ST-Mem) module for streamline network delineation.
 
-- `data/`: This directory (not present in the current version) will contain the necessary datasets used for the streamline delineation task. Due to data size limitations, the complete dataset may not be provided, but instructions on how to access or preprocess the data will be included.
-
-- `results/`: This directory (not present in the current version) will store the model outputs, evaluation metrics, and any visualization results generated during the experiments.
-
-- `docs/`: This directory (not present in the current version) will contain any additional documentation, papers, or presentations related to the project.
-
 ## Getting Started
 
 As the code is a work in progress, detailed instructions for getting started with each folder (MAML and MAML-w-mem) will be provided within the respective folders. This will include information on data preprocessing, model configurations, and how to execute the code for experiments.
