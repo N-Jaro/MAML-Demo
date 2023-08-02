@@ -26,7 +26,9 @@ We are actively working on implementing MAML with the ST-Mem module based on the
 
 ## References
 
-For more information about the research paper "Learning from Multiple Cities: A Meta-Learning Approach for Spatial-Temporal Prediction" by Huaxiu Yao, Yiding Liu, Ying Wei, Xianfeng Tang, and Zhenhui Li, please refer to the original paper.
+For more information about the research paper:
+
+Yao, H., Liu, Y., Wei, Y., Tang, X., & Li, Z. (2019). Learning from Multiple Cities: A Meta-Learning Approach for Spatial-Temporal Prediction. arXiv, 1901.08518. Retrieved from https://arxiv.org/abs/1901.08518v3
 
 As this work is based on the research paper, the implementation aims to follow the methodology and ideas described in the paper to the best extent possible.
 
